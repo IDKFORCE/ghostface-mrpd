@@ -1,5 +1,8 @@
-fx_version 'bodacious'
-games {'gta5'}
-author '⸸♱♥IDK_FORCE♥♱⸸#7611'
-description 'fs_ymaps'
-this_is_a_map 'yes'
+fx_version 'cerulean'
+game 'gta5'
+
+author 'GhostFaceScripts'
+description 'GhostFace MRPD'
+version '1.0.0'
+
+lua54 'yes'
